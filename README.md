@@ -24,7 +24,7 @@
 <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 </div>
  
-<h3> Languages </h3>
+<h2> Languages </h2>
  
 
 <div> 
@@ -44,7 +44,7 @@
 </div>
 
 <div>
-<h3>Frameworks & Libraries</h3>
+<h2>Frameworks & Libraries</h2>
 <img src="https://camo.githubusercontent.com/fa5be43dba8c79ff20be3296cd185fdce664d326a62548d8bfaccf20ab9495cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465"/>
  
 <img src="https://camo.githubusercontent.com/4520a7028dfc78ec3ba2e270799b3727038981fe3e0a9bf7d701b1ad70bceef7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"/>
@@ -62,7 +62,7 @@
 </div>
 
 <div> 
- <h3>Tools</h3>
+ <h2>Tools</h2>
    <img src="https://camo.githubusercontent.com/8290ef49e85a94c2ae9f929badf5aa1007b74d20f3f465c9222205064147bfa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465"/>
  
 <img src="https://camo.githubusercontent.com/f1fbce44786ee4edcf97a717cce6c15cfc38a1f098efb08f11c1c80dd595a909/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"/>
@@ -77,19 +77,15 @@
 </div>
 
 <div>
- <h3>Stats</h3>
+ <h2>Stats</h2>
  <img src="https://camo.githubusercontent.com/01e70fd306d83636b751db7d23d4517df1338c28ee22535f68bd7093eea402f2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d536176697461724144534f267468656d653d6461726b266c61796f75743d636f6d70616374"/>
 </div>
 
 <div>
-  <h3> 📬 Contact Me</h3>
+  <h2> 📬 Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
   I'm open to connecting and collaborating. You can reach out via email, phone, or LinkedIn.
   
    - Email: oscarbueno.012345@gmail.com
    - Phone: +57 3148101293
  
 </div>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/oscar-reatiga-6b79942b4/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/Y3sith'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
