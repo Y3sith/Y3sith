@@ -12,7 +12,7 @@
 
 <h2> A Few Quick Facts </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on something cool
   
@@ -82,7 +82,7 @@
 </div>
 
 <div>
-  <h2> 📬 Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+  <h2> 📬 Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
   I'm open to connecting and collaborating. You can reach out via email, phone, or LinkedIn.
   
    - Email: oscarbueno.012345@gmail.com
