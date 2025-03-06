@@ -20,11 +20,14 @@
   
 - ⚽ Fun fact: I like soccer.
 
+<div>
+<h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+</div>
+<h3> Languages </h3>
+ 
+</h2>
 
-<h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<h1> Languages </h1>
-
-<a href= https://www.github.com/Y3sith> <img src="https://camo.githubusercontent.com/59f1bf1e0c03f98c620e6456751406b0c8dba1ac0590704d93303b45cfe536ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465"/> </a>
+<a <img src="https://camo.githubusercontent.com/59f1bf1e0c03f98c620e6456751406b0c8dba1ac0590704d93303b45cfe536ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465"/> </a>
 
 
 <a href= https://www.github.com/Y3sith>   <img src="https://camo.githubusercontent.com/0c62da1efcec3fd216176106debb2634aa7a419f097b9b313f326c893505dabe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/> </a>
