@@ -84,10 +84,10 @@
 <div>
   <h3> 📬 Contact Me</h3>
   I'm open to connecting and collaborating. You can reach out via email, phone, or LinkedIn.
-  <div size='20px'>
-    - Email: oscarbueno.012345@gmail.com
+  
+   - Email: oscarbueno.012345@gmail.com
    - Phone: +57 3148101293
-  </div>
+ 
 </div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
